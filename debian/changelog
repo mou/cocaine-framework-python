@@ -1,36 +1,36 @@
 cocaine-framework-python (0.9.10) lucid; urgency=low
 
-  * Updated build dependencies
+  * Updated build dependencies.
 
  -- Rim Zaidullin <rimz@yandex-team.ru>  Sat, 23 Feb 2012 22:08:10 +0400
 
 cocaine-framework-python (0.9.9) lucid; urgency=low
 
-  * Updated build dependencies
+  * Updated build dependencies.
 
  -- Rim Zaidullin <rimz@yandex-team.ru>  Mon, 12 Nov 2012 15:15:22 +0400
 
 cocaine-framework-python (0.9.8) lucid; urgency=low
 
-  * Updated build dependencies
+  * Updated build dependencies.
 
  -- Rim Zaidullin <rimz@yandex-team.ru>  Mon, 12 Nov 2012 14:57:53 +0400
 
 cocaine-framework-python (0.9.7) lucid; urgency=low
 
-  * Updated build dependencies
+  * Updated build dependencies.
 
  -- Rim Zaidullin <rimz@yandex-team.ru>  Mon, 12 Nov 2012 14:53:01 +0400
 
 cocaine-framework-python (0.9.7) lucid; urgency=low
 
-  * Updated binary compatibility with libcocaine-dealer
+  * Updated binary compatibility with libcocaine-dealer.
 
  -- Rim Zaidullin <rimz@yandex-team.ru>  Mon, 12 Nov 2012 14:49:10 +0400
 
 cocaine-framework-python (0.9.6) lucid; urgency=low
 
-  * Do not split iterable response into chunks in wrappers
+  * Do not split iterable response into chunks in wrappers.
 
  -- Anton Kortunov <toshik@yandex-team.ru>  Wed, 31 Oct 2012 19:56:03 +0400
 
